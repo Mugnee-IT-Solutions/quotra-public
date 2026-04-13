@@ -1,145 +1,172 @@
-# Quotra — LED Display Quotation & Estimation
-
-**Quotra** is a professional, field-ready solution for teams who sell and specify LED display projects. It streamlines quoting from first conversation to a polished, branded client document—so your sales process stays consistent, fast, and credible.
-
 <div align="center">
 
-<img src="./screenshots/01-splash-brand.jpeg" width="260" alt="Quotra — branded splash screen" />
+# Quotra
 
-*Polished first impression — consistent brand from the moment the app opens.*
+### Turn complex LED quotes into clear, client-ready proposals—in minutes, not meetings.
+
+**Native Android · Offline-capable · Branded PDF output**
+
+<br />
+
+<img src="./screenshots/01-splash-brand.jpeg" width="280" alt="Quotra — branded splash screen" />
+
+<br />
+
+*A premium first touch—your brand leads before the first line item.*
 
 </div>
 
 ---
 
-## Overview
+## Why leaders care
 
-Businesses that sell LED screens often juggle product options, pricing tiers, taxes, discounts, and installation details across spreadsheets, messages, and ad-hoc documents. That slows deals down and increases the risk of inconsistent numbers or outdated prices.
+| What slows sales today | What **Quotra** changes |
+|------------------------|-------------------------|
+| Pricing scattered across chats, sheets, and memory | **One guided path**—every line item follows the same rules your business already trusts |
+| Re-work when someone used the wrong tier, tax, or add-on | **Built-in logic** for options, tiers, VAT/discounts, and commercial terms—fewer “sorry, let me resend that” moments |
+| Weak or inconsistent documents going to the buyer | **Polished, branded PDFs** that look as serious as the deal you are trying to win |
+| Dead air when Wi‑Fi fails on-site | **Works when connectivity doesn’t**—core quoting and PDF creation stay on the device |
 
-**Quotra** addresses this by giving estimation and sales teams a single, guided workflow: configure the display and commercial terms, see clear totals and summaries, and produce a professional PDF your clients can trust. The experience is designed to work **even when connectivity is unreliable**, so quotations can be prepared on-site or while traveling without losing momentum.
-
----
-
-## Key Features
-
-- **Guided quotation workflow** — Step-by-step flow from client and project details through product selection and commercial terms.
-- **Consistent pricing logic** — Structured handling of display technologies, configurations, tiers, VAT, discounts, and related line items so quotes stay aligned with your rules.
-- **Branded PDF output** — Client-ready documents that reflect your brand and present the quotation clearly.
-- **Offline-first reliability** — Core quoting and PDF generation work without a constant internet connection; optional connectivity supports staying up to date when available.
-- **Optional catalog refresh** — When online, pricing and catalog data can be refreshed so field teams are not stuck on stale numbers.
-- **Secure-by-design posture** — Sensitive implementation details and integrations are kept private (see **Source code notice** below).
+> **Bottom line:** Your team spends less time fixing quotes and more time **closing**—with a document customers can **sign off** with confidence.
 
 ---
 
-## Industry & Use Case
+## At a glance
 
-**Industry:** Pro AV, digital signage, LED display sales, and systems integration.
-
-**Typical use cases:**
-
-- Sales engineers preparing quotations during client visits or trade events  
-- Deal desks standardizing LED display estimates across regions or partners  
-- Organizations that need **repeatable, auditable** quotes instead of one-off spreadsheets  
-
----
-
-## System Workflow
-
-1. **Capture context** — Enter client and project information relevant to the quotation.  
-2. **Configure the display** — Select display type, sizing, technology, and related options according to your catalog and rules.  
-3. **Apply commercial terms** — Set taxes, discounts, payment or warranty choices, and any add-ons your process includes.  
-4. **Review the summary** — Confirm totals, structure, and narrative consistency before export.  
-5. **Generate and share** — Produce a branded PDF for the customer; optional background steps may run when connectivity allows, without blocking local success.  
+| | |
+|:---|:---|
+| **Best for** | Sales and estimation teams selling **LED displays**, **digital signage**, and **integrated AV** projects |
+| **Experience** | A calm, **step-by-step** flow—totals update as you go; jump back to any step when the customer changes direction |
+| **Output** | **Branded quotation** ready to **save**, **share**, or align with your **PDF** workflow |
+| **Reliability** | **Offline-first** mindset: the field shouldn’t wait for the internet to catch up |
+| **Governance** | Implementation stays **private**—see [Source & confidentiality](#source--confidentiality) |
 
 ---
 
-## Tech Stack
+## What your team gets
 
-This product is delivered as a **native Android application**, built for reliability on commercial devices used in the field.
+**Clarity under pressure**  
+A single screen tells the story: who the customer is, what was specified, what it costs, and what is payable—before anyone asks.
 
-| Area | Technology |
-|------|------------|
+**Control without spreadsheets**  
+Frames, installation, VAT, discounts, and payment choices are handled in structured controls—not fragile manual cells.
+
+**A document that sells**  
+The final step brings the technical breakdown and totals together, with obvious actions to deliver the quote professionally.
+
+**Confidence in the numbers**  
+When pricing rules live inside the product—not in someone’s head—your brand stays consistent from the first call to the signed order.
+
+---
+
+## From first tap to signed quote
+
+1. **Customer & context** — Capture who you are quoting and the essentials that frame the deal.  
+2. **Screen & specification** — Lock in size, product choices, and the details that drive engineering and margin.  
+3. **Commercial terms** — Apply taxes, discounts, payment logic, and add-ons the way **your** business already prices.  
+4. **Review with certainty** — See the summary, invoice view, and terms before anything leaves the building.  
+5. **Deliver** — Generate your **PDF**, **save** to the device, and **share**—without letting a weak signal block the moment.
+
+---
+
+## See the experience
+
+*Workflow order—exactly how your team moves from overview to a quote ready to send.*
+
+### The command center — steps, totals, and momentum
+
+Know where you are in the sale, see payable totals update live, and move forward without losing the thread.
+
+<p align="center">
+  <img src="./screenshots/02-home-six-step-workflow.jpeg" width="42%" alt="Quotra — six-step quotation workflow and live totals" />
+</p>
+
+### Pricing & payment — decisions that stay transparent
+
+Tune the commercial levers while the running total stays visible—ideal for fast alignment in front of the customer.
+
+<p align="center">
+  <img src="./screenshots/03-pricing-and-at-a-glance.jpeg" width="42%" alt="Quotra — at-a-glance summary and pricing options" />
+</p>
+
+### The finish line — summary, PDF, save & share
+
+Close the loop with a structured final review and clear **Save** / **Share** actions—**PDF creation stays on-device** when the network cannot be trusted.
+
+<p align="center">
+  <img src="./screenshots/04-summary-save-and-share.jpeg" width="42%" alt="Quotra — quotation summary with save and share" />
+</p>
+
+<details>
+<summary><strong>Visual reference (file names)</strong></summary>
+
+| # | Asset | Highlights |
+|---|--------|------------|
+| 1 | `screenshots/01-splash-brand.jpeg` | Brand-forward splash (shown at top) |
+| 2 | `screenshots/02-home-six-step-workflow.jpeg` | Six-step navigation; live totals |
+| 3 | `screenshots/03-pricing-and-at-a-glance.jpeg` | Summary card; VAT/discount/installation controls |
+| 4 | `screenshots/04-summary-save-and-share.jpeg` | Final review; PDF; save/share |
+
+</details>
+
+---
+
+## Built for serious field sales
+
+Quotra is delivered as a **native Android** application—responsive, familiar on commercial phones and tablets, and engineered for the realities of **site visits**, **trade floors**, and **travel**.
+
+<details>
+<summary><strong>Technical foundation</strong> <em>(for IT & procurement)</em></summary>
+
+| Area | Details |
+|------|---------|
 | Platform | Android (modern API levels) |
 | Language | Kotlin |
-| User interface | Jetpack Compose, Material Design3 |
-| Architecture | Structured layers for catalog, domain logic, export, and presentation |
-| Data & serialization | Type-safe models and efficient JSON handling |
-| Local persistence | Android DataStore for preferences and cached catalog state |
-| Networking | Industry-standard HTTP client for optional online sync |
-| Documents | PDF generation tailored for quotation layouts and annexes |
-| Build & delivery | Gradle-based Android toolchain (debug, test, and release pipelines) |
+| Interface | Jetpack Compose, Material 3 |
+| Structure | Clear separation of catalog, domain logic, export, and presentation |
+| Data | Efficient, type-safe models; local preferences and cached catalog state |
+| Networking | Standard HTTP client for **optional** online catalog refresh |
+| Documents | PDF generation aligned to quotation layout and annex needs |
+| Engineering | Gradle-based Android delivery pipeline |
+
+</details>
+
+<details>
+<summary><strong>Architecture — high level</strong></summary>
+
+- **Experience** — The guided flow your sellers actually use.  
+- **Rules** — Where pricing and quotation structure stay authoritative.  
+- **Catalog** — Defaults plus optional refreshed data, merged predictably.  
+- **Export** — Document generation designed so **local success** is not blocked by the network.  
+
+No implementation code is published in this repository; this summary supports **governance conversations**, not replication.
+
+</details>
 
 ---
 
-## Screenshots
+## Source & confidentiality
 
-Below is the product experience in **workflow order** — from the guided home screen, through pricing controls, to the final quotation ready to save or share.
+The **complete source code**, **integrations**, and **deployment assets** for this product are **private**—by design. That protects **client confidentiality**, **commercial terms**, **security posture**, and **intellectual property**.
 
-### Guided start — six-step workflow & live totals
-
-The home experience shows where you are in the process, keeps key numbers visible, and lets users jump to any step when needed.
-
-<p align="center">
-  <img src="./screenshots/02-home-six-step-workflow.jpeg" width="40%" alt="Quotra — six-step quotation workflow and live totals" />
-</p>
-
-### Commercial controls — “At a glance” + pricing & payment
-
-Teams can tune frames, installation, VAT, and discounts while the running total stays transparent for faster decisions on-site.
-
-<p align="center">
-  <img src="./screenshots/03-pricing-and-at-a-glance.jpeg" width="40%" alt="Quotra — at-a-glance summary and pricing options" />
-</p>
-
-### Final quotation — review, PDF, save & share (offline-friendly)
-
-The last step consolidates the technical breakdown and totals, with clear actions to **save** or **share** — including reassurance that PDF creation works on-device when connectivity is limited.
-
-<p align="center">
-  <img src="./screenshots/04-summary-save-and-share.jpeg" width="40%" alt="Quotra — quotation summary with save and share" />
-</p>
-
-**Gallery index**
-
-| # | File | What it highlights |
-|---|------|--------------------|
-| 1 | `screenshots/01-splash-brand.jpeg` | Brand-forward splash (also shown at the top of this page) |
-| 2 | `screenshots/02-home-six-step-workflow.jpeg` | Six-step navigation and live grand total / payable |
-| 3 | `screenshots/03-pricing-and-at-a-glance.jpeg` | Running summary plus VAT, discounts, and estimate modes |
-| 4 | `screenshots/04-summary-save-and-share.jpeg` | Final review, PDF tab, save/share, Step 6 of 6 |
+If you are exploring a similar solution for your organization, we can align on scope, timeline, and an appropriate engagement model—including **NDA** where required.
 
 ---
 
-## Architecture (high level)
+<div align="center">
 
-At a conceptual level, **Quotra** separates concerns so the product stays maintainable and safe to evolve:
+## Mugnee IT Solution
 
-- **Presentation** — The guided user experience and state that sales teams interact with.  
-- **Domain** — Business rules for pricing, eligibility, and quotation structure—the “source of truth” for how numbers are computed.  
-- **Catalog & data** — Bundled defaults combined with optional refreshed data, merged in a controlled way for predictable results.  
-- **Export** — Document generation and optional non-blocking integration hooks, designed so a successful local export is never held hostage by network conditions.  
+**We build software that makes complex sales feel simple.**
 
-No implementation code is published in this repository; the description above reflects how the system is organized for **clarity and governance**, not for replication.
+[ **mugneeit.com** ](https://mugneeit.com)
 
----
-
-## Source code notice
-
-The **full source code, internal integrations, and deployment assets** for this solution are **private**. This protects client confidentiality, commercial terms, security configurations, and intellectual property.
-
-If you are evaluating a similar build for your organization, we are happy to discuss scope, timelines, and an appropriate delivery model under NDA where required.
+</div>
 
 ---
 
-## Company
+### Ready for a product that matches how you sell?
 
-**Mugnee IT Solution**  
-Website: [https://mugneeit.com](https://mugneeit.com)
+Whether you need a **quotation platform**, a **mobile-first sales tool**, or a **document workflow** tied to configurable products, **Mugnee IT Solution** bridges the gap between **what your team knows** and **what your customer sees**.
 
----
-
-## Get in touch
-
-If you need a **custom quotation tool**, **mobile-first sales application**, or **integrated document workflow** for AV, signage, or complex configurable products, contact **Mugnee IT Solution**. We design solutions that balance **usability for sales teams**, **strictness for finance and operations**, and **professional presentation** for your customers.
-
-**[Visit mugneeit.com](https://mugneeit.com)** to start a conversation about a solution tailored to your business.
+**[Start a conversation → mugneeit.com](https://mugneeit.com)**
