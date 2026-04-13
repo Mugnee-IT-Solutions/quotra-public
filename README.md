@@ -2,6 +2,14 @@
 
 **Quotra** is a professional, field-ready solution for teams who sell and specify LED display projects. It streamlines quoting from first conversation to a polished, branded client document—so your sales process stays consistent, fast, and credible.
 
+<div align="center">
+
+<img src="./screenshots/01-splash-brand.jpeg" width="260" alt="Quotra — branded splash screen" />
+
+*Polished first impression — consistent brand from the moment the app opens.*
+
+</div>
+
 ---
 
 ## Overview
@@ -65,30 +73,40 @@ This product is delivered as a **native Android application**, built for reliabi
 
 ## Screenshots
 
-Add your product imagery under the `screenshots/` folder and reference the files below for a polished GitHub landing page.
+Below is the product experience in **workflow order** — from the guided home screen, through pricing controls, to the final quotation ready to save or share.
 
-**Suggested filenames:**
+### Guided start — six-step workflow & live totals
 
-| File | What to show |
-|------|----------------|
-| `./screenshots/01-dashboard-or-home.png` | Entry point or main overview |
-| `./screenshots/02-quotation-wizard-step.png` | Mid-flow configuration screen |
-| `./screenshots/03-summary-review.png` | Totals and review before export |
-| `./screenshots/04-pdf-export-or-share.png` | Export, share, or success state |
-| `./screenshots/05-sample-pdf-first-page.png` | Representative first page of a generated PDF (sanitized) |
-
-**Placeholder layout (replace with your assets):**
+The home experience shows where you are in the process, keeps key numbers visible, and lets users jump to any step when needed.
 
 <p align="center">
-  <img src="./screenshots/01-dashboard-or-home.png" width="32%" alt="Quotra — main experience" />
-  <img src="./screenshots/02-quotation-wizard-step.png" width="32%" alt="Quotra — configuration step" />
-  <img src="./screenshots/03-summary-review.png" width="32%" alt="Quotra — summary review" />
+  <img src="./screenshots/02-home-six-step-workflow.jpeg" width="40%" alt="Quotra — six-step quotation workflow and live totals" />
 </p>
 
+### Commercial controls — “At a glance” + pricing & payment
+
+Teams can tune frames, installation, VAT, and discounts while the running total stays transparent for faster decisions on-site.
+
 <p align="center">
-  <img src="./screenshots/04-pdf-export-or-share.png" width="32%" alt="Quotra — export and share" />
-  <img src="./screenshots/05-sample-pdf-first-page.png" width="32%" alt="Sample branded PDF output" />
+  <img src="./screenshots/03-pricing-and-at-a-glance.jpeg" width="40%" alt="Quotra — at-a-glance summary and pricing options" />
 </p>
+
+### Final quotation — review, PDF, save & share (offline-friendly)
+
+The last step consolidates the technical breakdown and totals, with clear actions to **save** or **share** — including reassurance that PDF creation works on-device when connectivity is limited.
+
+<p align="center">
+  <img src="./screenshots/04-summary-save-and-share.jpeg" width="40%" alt="Quotra — quotation summary with save and share" />
+</p>
+
+**Gallery index**
+
+| # | File | What it highlights |
+|---|------|--------------------|
+| 1 | `screenshots/01-splash-brand.jpeg` | Brand-forward splash (also shown at the top of this page) |
+| 2 | `screenshots/02-home-six-step-workflow.jpeg` | Six-step navigation and live grand total / payable |
+| 3 | `screenshots/03-pricing-and-at-a-glance.jpeg` | Running summary plus VAT, discounts, and estimate modes |
+| 4 | `screenshots/04-summary-save-and-share.jpeg` | Final review, PDF tab, save/share, Step 6 of 6 |
 
 ---
 
